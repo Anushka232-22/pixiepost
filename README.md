@@ -1,4 +1,4 @@
-<h1>🌸 PixiePost</h1>
+<h1>🌸 PixiePost 🌸</h1>
 <p>
   <strong>PixiePost</strong> is a simple and aesthetic beginner-friendly web app where users can:
 </p>
