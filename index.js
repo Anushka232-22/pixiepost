@@ -1,4 +1,4 @@
-// this is my main page
+// this is the main page of pixiepost
 const express = require("express");
 const app = express();
 const port = 8000;
